@@ -6,7 +6,7 @@ Thread Group
     Number of Theards - 3 users
     Rump-uo period - 2 seconds
     Loop Count - 3
-    Duration - 25 seconds
+    Duration - 10 seconds
 
 HTTP Request GET/posts/1
   View Results Tree
